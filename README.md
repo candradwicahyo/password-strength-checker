@@ -32,4 +32,5 @@ git clone https://github.com/candradwicahyo/password-strength-checker.git
 
 ![preview](https://github.com/candradwicahyo/password-strength-checker/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/password-strength-checker) untuk mencoba demo 
+[tekan link ini](https://candradwicahyo.github.io/password-strength-checker
+) untuk mencoba demo 
